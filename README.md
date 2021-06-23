@@ -1,5 +1,5 @@
 # Dirction-control-panel-
-The resopritory contains 4 elements:
+The resopritory contains 4 files:
 <br>
 1-base control panel <br>
 Is a webpage with navigation buttons to control a robot,it is built with HTML, CSS, and PHP. <br>
